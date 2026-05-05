@@ -14,10 +14,10 @@
 
 🔍 Idea de la página web:
   Realización de una tienda online de productos para un gimnasio, para mejorar tu entrenamiento. Donde se clasificarán los productos en las siguientes clases:
-    👕 - Ropa: Sudadera, Camiseta de tirantas, Leggings y Toallas.
-    🧤 - Complementos: Muñequeras, Guantes, Cinturón Lumbar y Cinturón Lastre.
-    🍶 - Suplementos: Proteínas, Barritas de Proteínas, Pre Entreno y Batidora.
-    📰 - Catálogo: Donde aparecerán todos los productos.
+  - Ropa: Sudadera, Camiseta de tirantas, Leggings y Toallas.
+  - Complementos: Muñequeras, Guantes, Cinturón Lumbar y Cinturón Lastre.
+  - Suplementos: Proteínas, Barritas de Proteínas, Pre Entreno y Batidora.
+  - Catálogo: Donde aparecerán todos los productos.
 
   También podemos buscar en relación al precio del producto.
   
